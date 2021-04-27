@@ -1,0 +1,48 @@
+body{
+	background: #82869E;
+}
+
+h1{
+	font-size: 75px;
+	font-style: bold;
+	font-family: 'Merriweather', serif;
+	font-weight: 700;
+	color: white;
+	
+
+}
+
+p{
+	font-size: 25px;
+	font-family: 'Merriweather', serif;
+	font-weight: 400;
+	font-style: italic;
+	color: rgb(246, 237, 235);
+}
+
+
+img{
+	width:400px;
+	position: middle;
+}
+
+#Left{
+	background-color: skyblue;
+	position: left;
+	width: 75%
+	
+}
+
+#Right{
+	background-color: greenyellow;
+	position: right;
+	width: 75%
+
+
+}
+
+#Middle{
+	background-color: orange;
+	width: 75%
+
+}	
